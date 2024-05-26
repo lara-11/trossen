@@ -1,0 +1,3 @@
+[submodule "agilex"]
+	path = agilex
+	url = https://github.com/lara-11/agilex
