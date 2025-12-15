@@ -1,3 +1,9 @@
 [submodule "agilex"]
 	path = agilex
 	url = https://github.com/lara-11/agilex
+[submodule "trossen"]
+	path = trossen
+	url = https://github.com/lara-11/trossen.git
+[submodule "dobot"]
+	path = dobot
+	url = https://github.com/lara-11/dobot.git
