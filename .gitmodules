@@ -7,3 +7,6 @@
 [submodule "dobot"]
 	path = dobot
 	url = https://github.com/lara-11/dobot.git
+[submodule "locobot"]
+	path = locobot
+	url = https://github.com/lara-11/locobot.git
